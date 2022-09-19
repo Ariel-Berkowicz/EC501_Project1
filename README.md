@@ -1,4 +1,4 @@
-# EC501_Project1
+# EC601_Project1
 
 Ariel Berkowicz
 
